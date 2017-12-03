@@ -23,7 +23,7 @@ async def fuck(*args):
 
 # After you have modified the code, feel free to delete the line above (line 33) so it does not keep popping up everytime you initiate the ping commmand.
 	
-client.run('Mzg2NDA4NzMyOTgxOTg1Mjgy.DQPtCA.ROqcrIa7sJuESunIPgqDpB2OpVo')
+client.run(TOKEN)
 
 
 
